@@ -81,5 +81,5 @@ Some scripts require additional external software:
 ## Author
 
 Yara Leone dos Santos
-SUPSI — Porject of internship for the supplementary geomatics certificate 
+SUPSI — Project of internship for the supplementary geomatics certificate 
 12.2025
