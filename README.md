@@ -30,6 +30,8 @@ All required input datasets are provided as a compressed archive (`inputs.zip`) 
 Before running the scripts, the archive must be extracted so that the original directory structure is preserved.
 
 ## Structure 
+The following section outlines the structure of the project and summarizes the purpose of each script within the processing workflows. 
+
 ### (CIPAIS project)
 - `1_1_landsat_GEEforCIPAIS.py/`
 Landsat thermal products are retrieved via STAC and processed to derive land surface temperature using the Barsi atmospheric correction
