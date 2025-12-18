@@ -34,17 +34,17 @@ Before running the scripts, the archive must be extracted so that the original d
 - `1_1_landsat_GEEforCIPAIS.py/`
 Landsat thermal products are retrieved via STAC and processed to derive land surface temperature using the Barsi atmospheric correction
 
-- `2_1_download_OLCI1EFR.py/` & `2_2_processing_OLCI1EFR.py`
+- `2_1_download_OLCI1EFR.py/` & `2_2_processing_OLCI1EFR.py/`
 Sentinel-3 OLCI Level-1 EFR products are retrieved via STAC and processed for chlorophyll-a using the C2RCC algorithm following the SIMILE protocol
 
-- `1_2_landsat_comparisonsmaps.py/` & `2_3_OL1EFR_comparisonmaps.py`
+- `1_2_landsat_comparisonsmaps.py/` & `2_3_OL1EFR_comparisonmaps.py/`
 The processed images are compared with reference images from 2024 in order to validate the processing workflow.
 
 ### (heat islands project)
-- `3_1_heatislands_landsat_GEEdownload.py`
+- `3_1_heatislands_landsat_GEEdownload.py/`
 STAC-based inventory and data download
 
-- `3_2_heatislands_sen3_download.py`
+- `3_2_heatislands_sen3_download.py/`
 STAC-based inventory and data download 
 
 ## Requirements
